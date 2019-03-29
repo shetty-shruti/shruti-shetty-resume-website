@@ -4658,8 +4658,8 @@ input[type="button"].btn-block {
 
 .card-img-top {
   width: 100%;
-  border-top-left-radius: calc(0.25rem - 1px);
-  border-top-right-radius: calc(0.25rem - 1px);
+  /* border-top-left-radius: calc(0.25rem - 1px);
+  border-top-right-radius: calc(0.25rem - 1px); */
 }
 
 .card-img-bottom {
@@ -4722,7 +4722,7 @@ input[type="button"].btn-block {
   }
   .card-group > .card + .card {
     margin-left: 0;
-    border-left: 0;
+    /* border-left: 0; */
   }
   .card-group > .card:not(:last-child) {
     border-top-right-radius: 0;
